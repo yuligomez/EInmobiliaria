@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+QF0NGg4Dg8CpItLF1zrOhF0MQcCmeT92QURHCL2T1cbejf4yEW6OQ+zJwWrSa23x/owtqlR/IPJ3l+ku1AZcw==",
+  "success": true,
+  "projectFilePath": "/Users/yulianagomez/Documents/proyectos/ISP/Damasco-Gomez/BackendApp/Domain/Domain.csproj",
+  "expectedPackageFiles": [
+    "/Users/yulianagomez/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/yulianagomez/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,9 @@
+/Users/yulianagomez/Documents/proyectos/ISP/Damasco-Gomez/BackendApp/Domain/bin/Debug/netstandard2.0/Domain.deps.json
+/Users/yulianagomez/Documents/proyectos/ISP/Damasco-Gomez/BackendApp/Domain/bin/Debug/netstandard2.0/Domain.dll
+/Users/yulianagomez/Documents/proyectos/ISP/Damasco-Gomez/BackendApp/Domain/bin/Debug/netstandard2.0/Domain.pdb
+/Users/yulianagomez/Documents/proyectos/ISP/Damasco-Gomez/BackendApp/Domain/obj/Debug/netstandard2.0/Domain.csprojAssemblyReference.cache
+/Users/yulianagomez/Documents/proyectos/ISP/Damasco-Gomez/BackendApp/Domain/obj/Debug/netstandard2.0/Domain.AssemblyInfoInputs.cache
+/Users/yulianagomez/Documents/proyectos/ISP/Damasco-Gomez/BackendApp/Domain/obj/Debug/netstandard2.0/Domain.AssemblyInfo.cs
+/Users/yulianagomez/Documents/proyectos/ISP/Damasco-Gomez/BackendApp/Domain/obj/Debug/netstandard2.0/Domain.csproj.CoreCompileInputs.cache
+/Users/yulianagomez/Documents/proyectos/ISP/Damasco-Gomez/BackendApp/Domain/obj/Debug/netstandard2.0/Domain.dll
+/Users/yulianagomez/Documents/proyectos/ISP/Damasco-Gomez/BackendApp/Domain/obj/Debug/netstandard2.0/Domain.pdb

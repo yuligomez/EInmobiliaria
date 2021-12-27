@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">EInmobiliaria</string>
+    <string name="textview">Para mantener todos los
+        apartemos al dia</string>
+    <string name="buttonLogIn">Log In</string>
+    <string name="buttonRegister">Registrar</string>
+    <string name="logInLabel">Log In</string>
+    <string name="emailLabel">Email</string>
+    <string name="passwordLabel">Contraseña</string>
+    <string name="selected_item">Seleccionar item:</string>
+    <string name="registerLabel">Registrar</string>
+    <string name="nameLabel">Nombre</string>
+    <string name="nameAparment">Nombre Apartamento</string>
+    <string name="imageHotel">imageHotel</string>
+    <string name="descriptionAparment">Descipición del apartamento</string>
+    <string name="locationAparment">Ubicación del apartamento</string>
+    <string name="phoneLabel">Phone</string>
+    <string name="add_edit_element">Agregar/Editar Elemento</string>
+    <string name="checkingAparment">Chequeo apartamento </string>
+    <string name="idApt">id 1 </string>
+    <string name="myCheckes">Mis chequeos</string>
+    <string name="todo">TODO</string>
+    <string name="hotel_image">hotel image</string>
+    <string name="checker_name">Luna</string>
+    <string name="view_and_edit">Editar perfil</string>
+    <string name="text_apartments_to_checks">Apartmentos para checkear</string>
+    <string name="button_go_mys_apartments">Go</string>
+    <string name="textEditProfile">Editar Profile</string>
+    <string name="nameEditProfile">Entra tu nombre</string>
+    <string name="buttonProfileEdit">Editar</string>
+    <string name="role">Rol</string>
+    <string name="buscar_apartamento">Buscar apartamento..</string>
+    <string name="log_out">Log Out</string>
+    <string name="mis_apartamentos">Mis apartamentos</string>
+    <string name="profile">Perfil</string>
+    <string name="addAparment">Agregar Apartamento</string>
+    <string name="seeApartmensCheckables">Ver Aparatamentos para Chequear</string>
+    <string name="rentAparment">Agregar alquiler de Apartamento</string>
+    <string name="aparmentsToCHECK">Apartamento a Chequear</string>
+    <string name="elements">Elementos</string>
+    <string name="elementsBroken">Elementos rotos</string>
+    <string name="add_element">Agregar elemento</string>
+    <string name="quantity">Cantidad</string>
+    <string name="is_broken">Esta Roto</string>
+    <string name="take_picture">Subir Foto</string>
+    <string name="camara">Abrir Cámara</string>
+    <string name="add">Agregar</string>
+    <string name="image_broken_element">Imagen de elemento Roto</string>
+    <string name="add_rent">Agregar Alquiler</string>
+    <string name="apartments_available">Aparamentos disponibles</string>
+    <string name="add_dates">Agregar Fechas</string>
+    <string name="create_apartment">Crear Apartamento</string>
+    <string name="name">Nombre</string>
+    <string name="description">Descripcion</string>
+    <string name="add_location">Agregar Locacion</string>
+    <string name="send_notifications">Pendientes de notificación</string>
+    <string name="apartment_to_check">Aparatamentos para chequear</string>
+    <string name="notification">Notificar</string>
+    <string name="undone">Para hacer</string>
+    <string name="completed">Chequeados</string>
+    <string name="doing">En proceso</string>
+    <string name="brokenElements">Elementos Rotos</string>
+    <string name="addElemeent">Agregar Elemento</string>
+    <string name="doneChecking">Terminar Chequeo </string>
+    <string name="balance">Balance Apartamento </string>
+    <string name="nameApartamentBalance">Nombre Apartamento </string>
+    <string name="loadImage">Selecionar imágen</string>
+    <string name="forgotPass">Olvidé mi contraseña</string>
+    <string name="confirmPass">Confirmar Contraseña</string>
+    <string-array name="Roles">
+        <item>Admin</item>
+        <item>Checker</item>
+    </string-array>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_maps_apartment_location">Map</string>
+
+
+</resources>

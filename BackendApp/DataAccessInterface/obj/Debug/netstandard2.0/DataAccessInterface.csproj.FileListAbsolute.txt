@@ -1,0 +1,14 @@
+/Users/yulianagomez/Documents/proyectos/ISP/Damasco-Gomez/BackendApp/DataAccessInterface/bin/Debug/netstandard2.0/DataAccessInterface.deps.json
+/Users/yulianagomez/Documents/proyectos/ISP/Damasco-Gomez/BackendApp/DataAccessInterface/bin/Debug/netstandard2.0/DataAccessInterface.dll
+/Users/yulianagomez/Documents/proyectos/ISP/Damasco-Gomez/BackendApp/DataAccessInterface/bin/Debug/netstandard2.0/DataAccessInterface.pdb
+/Users/yulianagomez/Documents/proyectos/ISP/Damasco-Gomez/BackendApp/DataAccessInterface/bin/Debug/netstandard2.0/Domain.dll
+/Users/yulianagomez/Documents/proyectos/ISP/Damasco-Gomez/BackendApp/DataAccessInterface/bin/Debug/netstandard2.0/Model.dll
+/Users/yulianagomez/Documents/proyectos/ISP/Damasco-Gomez/BackendApp/DataAccessInterface/bin/Debug/netstandard2.0/Domain.pdb
+/Users/yulianagomez/Documents/proyectos/ISP/Damasco-Gomez/BackendApp/DataAccessInterface/bin/Debug/netstandard2.0/Model.pdb
+/Users/yulianagomez/Documents/proyectos/ISP/Damasco-Gomez/BackendApp/DataAccessInterface/obj/Debug/netstandard2.0/DataAccessInterface.csprojAssemblyReference.cache
+/Users/yulianagomez/Documents/proyectos/ISP/Damasco-Gomez/BackendApp/DataAccessInterface/obj/Debug/netstandard2.0/DataAccessInterface.AssemblyInfoInputs.cache
+/Users/yulianagomez/Documents/proyectos/ISP/Damasco-Gomez/BackendApp/DataAccessInterface/obj/Debug/netstandard2.0/DataAccessInterface.AssemblyInfo.cs
+/Users/yulianagomez/Documents/proyectos/ISP/Damasco-Gomez/BackendApp/DataAccessInterface/obj/Debug/netstandard2.0/DataAccessInterface.csproj.CoreCompileInputs.cache
+/Users/yulianagomez/Documents/proyectos/ISP/Damasco-Gomez/BackendApp/DataAccessInterface/obj/Debug/netstandard2.0/DataAccessInterface.csproj.CopyComplete
+/Users/yulianagomez/Documents/proyectos/ISP/Damasco-Gomez/BackendApp/DataAccessInterface/obj/Debug/netstandard2.0/DataAccessInterface.dll
+/Users/yulianagomez/Documents/proyectos/ISP/Damasco-Gomez/BackendApp/DataAccessInterface/obj/Debug/netstandard2.0/DataAccessInterface.pdb

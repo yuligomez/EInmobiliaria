@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.einmobiliaria">
+    <!--
+         The ACCESS_COARSE/FINE_LOCATION permissions are not required to use
+         Google Maps Android API v2, but you must specify either coarse or fine
+         location permissions for the "MyLocation" functionality.
+    -->
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.hardware.location.gps" /> <!-- abrir galería y cargar imágenes -->
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" /> <!-- uso de camara -->
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+
+    <uses-feature android:name="android.hardware.camera.autofocus" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:networkSecurityConfig="@xml/network_security_config"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:theme="@style/Theme.EInmobiliaria"
+        android:usesCleartextTraffic="true">
+
+
+
+
+        <provider
+            android:name="androidx.core.content.FileProvider"
+            android:authorities="com.example.einmobiliaria.fileprovider"
+            android:exported="false"
+            android:grantUriPermissions="true">
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/provider_paths" />
+        </provider>
+        <!--
+             The API key for Google Maps-based APIs is defined as a string resource.
+             (See the file "res/values/google_maps_api.xml").
+             Note that the API key is linked to the encryption key used to sign the APK.
+             You need a different API key for each encryption key, including the release key that is used to
+             sign the APK for publishing.
+             You can define the keys for the debug and release targets in src/debug/ and src/release/.
+        -->
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="@string/google_maps_key" />
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+
+        <activity
+            android:name=".ui.MapsActivityApartmentLocation"
+            android:label="@string/title_activity_maps_apartment_location" />
+        <activity android:name=".ui.Camara" />
+        <activity android:name=".ui.AccessLocationAparment" />
+        <activity android:name=".ui.GeocordingApi" />
+        <activity android:name=".ui.AparmentsInCheck" />
+        <activity android:name=".ui.DashboardChecker" />
+        <activity android:name=".ui.DashboardAdmin" />
+        <activity android:name=".ui.AparmentsChecked" />
+        <activity
+            android:name=".ui.MapsActivity"
+            android:label="@string/title_activity_maps" />
+
+        <activity android:name=".ui.UncheckAparments" />
+        <activity android:name=".ui.Checking" />
+
+        <activity android:name=".ui.AparmentsToCheck" />
+        <activity android:name=".ui.AddRent"
+            android:windowSoftInputMode="adjustPan"/>
+
+        <activity android:name=".ui.AddElement"
+            android:windowSoftInputMode="adjustPan"/>
+
+        <activity android:name=".ui.Apartment" />
+        <activity
+            android:name=".ui.LogIn"
+            android:theme="@style/NotPreview"
+            android:windowSoftInputMode="adjustPan" />
+        <activity android:name=".ui.EditProfile"
+            android:windowSoftInputMode="adjustPan"/>
+        <activity
+            android:name=".Register"
+            android:windowSoftInputMode="adjustPan" />
+
+        <activity android:name=".CreateApartment"
+            android:windowSoftInputMode="adjustPan"
+            />
+        <activity android:name=".ui.EditElement"
+            android:windowSoftInputMode="adjustPan"/>
+
+        <activity android:name=".ui.ApartmentsRegistered" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

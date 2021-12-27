@@ -1,0 +1,12 @@
+/Users/yulianagomez/Documents/proyectos/ISP/Damasco-Gomez/BackendApp/Model/bin/Debug/netstandard2.0/Model.deps.json
+/Users/yulianagomez/Documents/proyectos/ISP/Damasco-Gomez/BackendApp/Model/bin/Debug/netstandard2.0/Model.dll
+/Users/yulianagomez/Documents/proyectos/ISP/Damasco-Gomez/BackendApp/Model/bin/Debug/netstandard2.0/Model.pdb
+/Users/yulianagomez/Documents/proyectos/ISP/Damasco-Gomez/BackendApp/Model/bin/Debug/netstandard2.0/Domain.dll
+/Users/yulianagomez/Documents/proyectos/ISP/Damasco-Gomez/BackendApp/Model/bin/Debug/netstandard2.0/Domain.pdb
+/Users/yulianagomez/Documents/proyectos/ISP/Damasco-Gomez/BackendApp/Model/obj/Debug/netstandard2.0/Model.csprojAssemblyReference.cache
+/Users/yulianagomez/Documents/proyectos/ISP/Damasco-Gomez/BackendApp/Model/obj/Debug/netstandard2.0/Model.AssemblyInfoInputs.cache
+/Users/yulianagomez/Documents/proyectos/ISP/Damasco-Gomez/BackendApp/Model/obj/Debug/netstandard2.0/Model.AssemblyInfo.cs
+/Users/yulianagomez/Documents/proyectos/ISP/Damasco-Gomez/BackendApp/Model/obj/Debug/netstandard2.0/Model.csproj.CoreCompileInputs.cache
+/Users/yulianagomez/Documents/proyectos/ISP/Damasco-Gomez/BackendApp/Model/obj/Debug/netstandard2.0/Model.csproj.CopyComplete
+/Users/yulianagomez/Documents/proyectos/ISP/Damasco-Gomez/BackendApp/Model/obj/Debug/netstandard2.0/Model.dll
+/Users/yulianagomez/Documents/proyectos/ISP/Damasco-Gomez/BackendApp/Model/obj/Debug/netstandard2.0/Model.pdb

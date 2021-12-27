@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingRight="16dp"
+    android:paddingLeft="16dp"
+    android:paddingBottom="16dp"
+    android:paddingTop="16dp"
+    tools:context=".ui.Apartment">
+
+    <TextView
+        android:id="@+id/nameApartment"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/nameAparment"
+        android:textStyle="bold"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:textSize="25dp"/>
+
+    <TextView
+        android:id="@+id/descriptionAparment"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="50dp"
+        android:layout_marginRight="15dp"
+        android:text="@string/descriptionAparment"
+        android:textSize="16dp"
+        android:textStyle="italic" />
+
+
+    <TextView
+        android:id="@+id/ubicacionAparment"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="90dp"
+        android:layout_marginRight="15dp"
+        android:clickable="true"
+        android:text="@string/locationAparment"
+        android:textColorLink="@color/orange"
+        android:textSize="16dp"
+        android:textStyle="normal" />
+
+
+    <com.google.android.material.chip.ChipGroup
+        layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="0dp"
+        android:layout_marginTop="120dp"
+        android:layout_marginRight="0dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.495"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.061"
+        app:singleSelection="true">
+
+        <com.google.android.material.chip.Chip
+
+            android:id="@+id/chipElementAparment"
+            style="@style/customChipStyle"
+            android:layout_width="130dp"
+            layout_gravity="center"
+            android:layout_height="wrap_content"
+            android:text="@string/elements"
+            android:textAlignment="center" />
+
+        <com.google.android.material.chip.Chip
+            android:id="@+id/chipBrokenElementsAparment"
+            style="@style/customChipStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            layout_gravity="center"
+            android:text="@string/elementsBroken"
+            android:textAlignment="center" />
+    </com.google.android.material.chip.ChipGroup>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/RecyclerAparment"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="220dp"
+        app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager" />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <com.github.clans.fab.FloatingActionMenu
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:menu_fab_label="Menú"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentEnd="true">
+
+                <com.github.clans.fab.FloatingActionButton
+                    android:id="@+id/addElementAparment"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    app:fab_label="Agregar Elemento"
+                    android:src="@drawable/ic_add"/>
+
+                <com.github.clans.fab.FloatingActionButton
+                    android:id="@+id/addRentAparment"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    app:fab_label="Agregar Alquiler"
+                    android:src="@drawable/ic_add"/>
+
+            </com.github.clans.fab.FloatingActionMenu>
+
+        </RelativeLayout>
+
+
+
+
+
+
+
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

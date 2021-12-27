@@ -1,0 +1,12 @@
+/Users/yulianagomez/Documents/proyectos/ISP/Damasco-Gomez/BackendApp/SessionInterface/bin/Debug/netstandard2.0/SessionInterface.deps.json
+/Users/yulianagomez/Documents/proyectos/ISP/Damasco-Gomez/BackendApp/SessionInterface/bin/Debug/netstandard2.0/SessionInterface.dll
+/Users/yulianagomez/Documents/proyectos/ISP/Damasco-Gomez/BackendApp/SessionInterface/bin/Debug/netstandard2.0/SessionInterface.pdb
+/Users/yulianagomez/Documents/proyectos/ISP/Damasco-Gomez/BackendApp/SessionInterface/bin/Debug/netstandard2.0/Domain.dll
+/Users/yulianagomez/Documents/proyectos/ISP/Damasco-Gomez/BackendApp/SessionInterface/bin/Debug/netstandard2.0/Domain.pdb
+/Users/yulianagomez/Documents/proyectos/ISP/Damasco-Gomez/BackendApp/SessionInterface/obj/Debug/netstandard2.0/SessionInterface.AssemblyInfoInputs.cache
+/Users/yulianagomez/Documents/proyectos/ISP/Damasco-Gomez/BackendApp/SessionInterface/obj/Debug/netstandard2.0/SessionInterface.AssemblyInfo.cs
+/Users/yulianagomez/Documents/proyectos/ISP/Damasco-Gomez/BackendApp/SessionInterface/obj/Debug/netstandard2.0/SessionInterface.csproj.CoreCompileInputs.cache
+/Users/yulianagomez/Documents/proyectos/ISP/Damasco-Gomez/BackendApp/SessionInterface/obj/Debug/netstandard2.0/SessionInterface.csproj.CopyComplete
+/Users/yulianagomez/Documents/proyectos/ISP/Damasco-Gomez/BackendApp/SessionInterface/obj/Debug/netstandard2.0/SessionInterface.dll
+/Users/yulianagomez/Documents/proyectos/ISP/Damasco-Gomez/BackendApp/SessionInterface/obj/Debug/netstandard2.0/SessionInterface.pdb
+/Users/yulianagomez/Documents/proyectos/ISP/Damasco-Gomez/BackendApp/SessionInterface/obj/Debug/netstandard2.0/SessionInterface.csprojAssemblyReference.cache

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/</item>
+        <item>@font/abeezee</item>
+        <item>@font/aguafina_script</item>
+        <item>@font/alegreya_sc</item>
+        <item>@font/alfa_slab_one</item>
+        <item>@font/amita</item>
+        <item>@font/bubbler_one</item>
+        <item>@font/bungee_inline</item>
+        <item>@font/carter_one</item>
+        <item>@font/chonburi</item>
+        <item>@font/josefin_sans_thin</item>
+    </array>
+</resources>

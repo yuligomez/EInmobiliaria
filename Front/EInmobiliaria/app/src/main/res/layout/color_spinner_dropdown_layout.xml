@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:textColor="@color/light_orange"
+    android:paddingLeft="@dimen/login_edit_text_space"
+    android:paddingRight="@dimen/login_edit_text_space"
+    android:paddingTop="@dimen/login_edit_text_space"
+    android:paddingEnd="@dimen/login_edit_text_space"
+    android:textSize="@dimen/login_text_size"
+    android:padding="6dp">
+
+</TextView>

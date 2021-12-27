@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "XPtSg0yGS1O2D+8garMJm3mkpNgztC4c29EaBDX/ZnZqRFlODKNJtdiojy+/zw6Lu7Wbb0DrO3Mb/C6VmDAIEQ==",
+  "success": true,
+  "projectFilePath": "/Users/yulianagomez/Documents/proyectos/ISP/Damasco-Gomez/BackendApp/BusinessLogicInterface/BusinessLogicInterface.csproj",
+  "expectedPackageFiles": [
+    "/Users/yulianagomez/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/yulianagomez/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

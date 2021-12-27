@@ -1,0 +1,16 @@
+/Users/yulianagomez/Documents/proyectos/ISP/Damasco-Gomez/BackendApp/DataAccess/bin/Debug/netstandard2.0/DataAccess.deps.json
+/Users/yulianagomez/Documents/proyectos/ISP/Damasco-Gomez/BackendApp/DataAccess/bin/Debug/netstandard2.0/DataAccess.dll
+/Users/yulianagomez/Documents/proyectos/ISP/Damasco-Gomez/BackendApp/DataAccess/bin/Debug/netstandard2.0/DataAccess.pdb
+/Users/yulianagomez/Documents/proyectos/ISP/Damasco-Gomez/BackendApp/DataAccess/bin/Debug/netstandard2.0/DataAccessInterface.dll
+/Users/yulianagomez/Documents/proyectos/ISP/Damasco-Gomez/BackendApp/DataAccess/bin/Debug/netstandard2.0/Domain.dll
+/Users/yulianagomez/Documents/proyectos/ISP/Damasco-Gomez/BackendApp/DataAccess/bin/Debug/netstandard2.0/Model.dll
+/Users/yulianagomez/Documents/proyectos/ISP/Damasco-Gomez/BackendApp/DataAccess/bin/Debug/netstandard2.0/DataAccessInterface.pdb
+/Users/yulianagomez/Documents/proyectos/ISP/Damasco-Gomez/BackendApp/DataAccess/bin/Debug/netstandard2.0/Domain.pdb
+/Users/yulianagomez/Documents/proyectos/ISP/Damasco-Gomez/BackendApp/DataAccess/bin/Debug/netstandard2.0/Model.pdb
+/Users/yulianagomez/Documents/proyectos/ISP/Damasco-Gomez/BackendApp/DataAccess/obj/Debug/netstandard2.0/DataAccess.csprojAssemblyReference.cache
+/Users/yulianagomez/Documents/proyectos/ISP/Damasco-Gomez/BackendApp/DataAccess/obj/Debug/netstandard2.0/DataAccess.AssemblyInfoInputs.cache
+/Users/yulianagomez/Documents/proyectos/ISP/Damasco-Gomez/BackendApp/DataAccess/obj/Debug/netstandard2.0/DataAccess.AssemblyInfo.cs
+/Users/yulianagomez/Documents/proyectos/ISP/Damasco-Gomez/BackendApp/DataAccess/obj/Debug/netstandard2.0/DataAccess.csproj.CoreCompileInputs.cache
+/Users/yulianagomez/Documents/proyectos/ISP/Damasco-Gomez/BackendApp/DataAccess/obj/Debug/netstandard2.0/DataAccess.csproj.CopyComplete
+/Users/yulianagomez/Documents/proyectos/ISP/Damasco-Gomez/BackendApp/DataAccess/obj/Debug/netstandard2.0/DataAccess.dll
+/Users/yulianagomez/Documents/proyectos/ISP/Damasco-Gomez/BackendApp/DataAccess/obj/Debug/netstandard2.0/DataAccess.pdb

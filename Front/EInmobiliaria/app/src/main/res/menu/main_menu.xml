@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/nav_dashboard"
+        android:icon="@drawable/ic_baseline_apartment_24"
+        app:showAsAction="never"
+        android:title="Dashboard"/>
+    <item
+        android:id="@+id/nav_profile"
+        android:icon="@drawable/ic_baseline_person_24"
+        app:showAsAction="never"
+        android:title="@string/profile"/>
+    <item
+        android:id="@+id/nav_logout"
+        android:icon="@drawable/ic_baseline_logout_24"
+        app:showAsAction="always"
+        android:title="@string/log_out"/>
+
+</menu>
